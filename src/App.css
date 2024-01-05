@@ -61,9 +61,9 @@ ul.nav li {
   font-family: palanquin;
   letter-spacing: 1px;
   @media (max-width: 768px) {
-    margin-right: 40px;
+    /* margin-right: 40px; */
     max-width: 100%;
-    padding: 4px px;
+    /* padding: 4px px; */
     font-size: small;
   }
 }
