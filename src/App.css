@@ -12,14 +12,12 @@
 
 /* Tab Container */
 .Tabs {
-  /* width: 50%; */
   height: auto;
-  /* margin: 10px; */
-  /* min-height: 400px; */
+
   background: #efeff3;
   margin: 40px;
   /* margin: 3.5rem auto 1.5rem; */
-  padding: 2rem 1rem;
+  padding: 1rem;
   color: black;
   border-radius: 2rem;
   @media (max-width: 769px) {
@@ -31,7 +29,7 @@
 ul.nav {
   width: 60%;
   background: white;
-  padding: 1rem;
+  /* padding: 1rem; */
   min-width: 16rem;
   overflow: hidden;
   margin: 0 auto 2rem;
