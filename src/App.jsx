@@ -6,11 +6,11 @@ import Tabs from "./components/TabComponent/Tabs";
 
 const App = () => {
   return (
-    <>
+    <div className="app">
       <Dashboard />
       <Tabs />
       {/* <Button title={"yes"} /> */}
-    </>
+    </div>
   );
 };
 
