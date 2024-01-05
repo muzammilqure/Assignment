@@ -33,6 +33,7 @@ ul.nav {
   background: white;
   padding: 1rem;
   min-width: 16rem;
+  overflow: hidden;
   margin: 0 auto 2rem;
   display: flex;
   align-items: center;
@@ -47,6 +48,7 @@ ul.nav li {
   overflow: hidden;
   align-items: center;
   width: 100%;
+  min-width: 4rem;
   height: 4rem;
   min-height: 4rem;
   max-height: 8rem;
