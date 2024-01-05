@@ -63,8 +63,7 @@ ul.nav li {
   @media (max-width: 768px) {
     max-width: 100%;
     /* padding: 4px px; */
-    padding-botton: 1px;
-    padding-top: 1px;
+
     font-size: small;
   }
 }
