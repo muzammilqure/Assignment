@@ -28,7 +28,7 @@ const Tabs = () => {
           setActiveTab={setActiveTab}
         />
       </ul>
-      <div className="outlet">
+      <div className="outlet p-2 bg-white">
         <TabContent id="tab1" activeTab={activeTab}>
           <div className="flex gap-3 items-center bg-white">
             <Button title="View SFO List" />
