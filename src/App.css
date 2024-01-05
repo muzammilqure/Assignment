@@ -31,13 +31,14 @@
 ul.nav {
   width: 60%;
   background: white;
-  min-width: 18rem;
+  padding: 1rem;
+  min-width: 16rem;
   margin: 0 auto 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   border-radius: 2rem;
-  /* max-width: 300px; */
+
   max-height: 70px;
   /* padding-left: 0px; */
 }
@@ -51,7 +52,6 @@ ul.nav li {
   max-height: 8rem;
   padding-bottom: 2rem;
   padding: 1rem;
-
   list-style: none;
   text-align: center;
   cursor: pointer;
